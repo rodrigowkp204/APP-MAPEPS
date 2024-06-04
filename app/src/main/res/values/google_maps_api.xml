@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Adicione sua chave de API do Google Maps abaixo -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCoYMSkyUwFbBaVz3Y5s8I7YWY2meS0hBk</string>
+
+
+</resources>

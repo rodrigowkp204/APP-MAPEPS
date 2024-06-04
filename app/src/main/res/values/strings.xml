@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MapEPS</string>
+    <string name="title_activity_maps_teste1">maps_teste1</string>
+
+    <!-- PÁGINA PRINCIPAL -->
+    <string name="title_cenario">MapEPS</string>
+    <string name="title_maps_calor">Mapa de Calor</string>
+    <string name="title_regioes_saude">Regiões de Saúde</string>
+    <string name="title_formacoes_tecnica">Formações Técnicas</string>
+    <string name="title_qualificacao">Qualificações</string>
+
+    <!-- PÁGINA MAPA DE CALOR -->
+    <string name="title_mapa_calor">Mapa de Calor</string>
+    <string name="subtitle_mapa_calor">Regiões por onde a ESP/MA realizou ações</string>
+    <string name="alta">Alta concentração de ações</string>
+    <string name="media">Média concentração de ações</string>
+    <string name="baixa">Baixa concentração de ações</string>
+    <string name="atualizacao">Última atualização em: 01/05/2024</string>
+
+    <!-- PÁGINA REGIÕES DE SAÚDE -->
+    <string name="title_regioes_Saude">Regiões de Saúde</string>
+    <string name="acailandia">Açailândia</string>
+    <string name="bacabal">Bacabal</string>
+    <string name="balsas">Balsas</string>
+    <string name="barradocorda">Barra do Corda</string>
+    <string name="caxias">Caxias</string>
+    <string name="chapadinha">Chapadinha</string>
+    <string name="codo">Codó</string>
+    <string name="imperatriz">Imperatriz</string>
+    <string name="itapecuru">Itapecuru</string>
+    <string name="pedreiras">Pedreiras</string>
+    <string name="pinheiro">Pinheiro</string>
+    <string name="pdutra">Presidente Dutra</string>
+    <string name="rosario">Rosário</string>
+    <string name="sines">Santa Inês</string>
+    <string name="sjpatos">São João dos Patos</string>
+    <string name="timon">Timon</string>
+    <string name="viana">Viana</string>
+    <string name="zedoca">Zé Doca</string>
+
+    <!-- PÁGINA AÇAILÂNDIA -->
+    <string name="title_regiao_acailandia">Municípios de Açailândia</string>
+    <string name="formacao_acailandia">Açailândia</string>
+
+    <!-- PÁGINA BACABAL -->
+    <string name="title_regiao_bacabal">Municípios de Bacabal</string>
+    <string name="formacao_bacabal">Bacabal</string>
+    <string name="formacao_brejo_areia">Brejo de Areia</string>
+    <string name="formacao_conceicao_lagu_acu">Conceição do Lagu-Açu</string>
+    <string name="formacao_slz_gonzaga_maranhao">São Luís Gonzaga do Maranhão</string>
+
+    <!-- PÁGINA BALSAS -->
+    <string name="title_regiao_balsas">Municípios de Balsas</string>
+    <string name="formacao_balsas">Balsas</string>
+
+    <!-- PÁGINA BARRA DO CORDA -->
+    <string name="title_regiao_barra_do_corda">Municípios de Barra do Corda</string>
+    <string name="formacao_arame">Arame</string>
+    <string name="formacao_barra_do_corda">Barra do Corda</string>
+    <string name="formacao_fernando_falcao">Fernando Falcão</string>
+    <string name="formacao_grajau">Grajaú</string>
+    <string name="formacao_itaipava_do_grajau">Itaipava do Grajaú</string>
+    <string name="formacao_jenipapo_dos_vieiras">Jenipapo dos Vieiras</string>
+
+</resources>

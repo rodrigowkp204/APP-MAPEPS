@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_2"
+    android:padding="40dp"
+    tools:context=".RegiaoSaude">
+
+    <ImageView
+        android:id="@+id/bt_voltar_regiao"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_voltar"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/title_mapa_calor_pg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60sp"
+        android:text="@string/title_regioes_saude"
+        android:fontFamily="@font/signika_bold"
+        android:textSize="35sp"
+        android:textColor="@color/azulPrincipal" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/regiaoitens"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_mapa_calor_pg"
+        android:layout_marginTop="8dp"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1dp"
+        android:layout_marginBottom="8dp"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
